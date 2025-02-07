@@ -11,7 +11,6 @@ focusing on full-stack development and cloud computing.
 
 ### I'm currently learning
 - Java, Python, C++, HTML, CSS, and JavaScript
-- PHP and MySQL
 - Git and GitHub workflows
 - Blockchain technology
 
