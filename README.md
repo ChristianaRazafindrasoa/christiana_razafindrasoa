@@ -10,7 +10,7 @@ focusing on full-stack development and cloud computing.
 - Building a professional portfolio
 
 ### I'm currently learning
-- Java, Python, C++, Go, HTML, CSS, and JavaScript
+- Java, Python, C++, HTML, CSS, and JavaScript
 - PHP and MySQL
 - Git and GitHub workflows
 - Blockchain technology
