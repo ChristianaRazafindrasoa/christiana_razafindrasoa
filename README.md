@@ -1,4 +1,6 @@
 # Hello, I'm Christiana 👋
+![My GitHub Profile Picture](https://github.com/your-username.png)
+
 ## Aspiring Software Developer | Computer Science Student
 
 I'm currently studying Computer Science at San Jose City College,
