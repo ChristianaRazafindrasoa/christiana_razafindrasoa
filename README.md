@@ -9,16 +9,24 @@ focusing on full-stack development and cloud computing.
 - Applying for a summer internship (May - Aug 2025)
 - Building a professional portfolio
 
-### I'm currently learning
+### Current coursework
 - Java, Python, C++, HTML, CSS, and JavaScript
+- Object-oriented programming
+- Linux administration
+- Apache, MySQL, PHP
+- Graphic Design
+
+### I'm currently learning
 - Git and GitHub workflows
-- Linux administration, distributed systems, cloud computing, machine learning
-- Blockchain technology
+- Machine learning, artificial intelligence
+- Distributed systems, cloud computing
 
 ### Technical Skills
 - Languages: Java, Pyhton, HTML, CSS, JavaScript
 - Tools: VS Code, MAMP, Git
 - Concepts: Web Development, Database Design
+- Adobe Photoshop, Illustrator, InDesign, After Effects
+- Microsoft Word, Excel, PowerPoint, Access
 
 ### How to reach me
 - LinkedIn: https://www.linkedin.com/in/christiana-razafindrasoa/
