@@ -5,13 +5,14 @@ I'm currently studying Computer Science at San Jose City College,
 focusing on full-stack development and cloud computing.
 
 ### Current Projects
-- Creating a commodity app showing different prices on a map
+- Creating a web app that displays real-time commodity prices on an interactive map
 - Applying for a summer internship (May - Aug 2025)
 - Building a professional portfolio
 
 ### I'm currently learning
 - Java, Python, C++, HTML, CSS, and JavaScript
 - Git and GitHub workflows
+- Linux administration, distributed systems, cloud computing, machine learning
 - Blockchain technology
 
 ### Technical Skills
