@@ -2,7 +2,7 @@
 ![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
 ## <abbr title="Target">🎯</abbr> **Aspiring Software Developer** | <abbr title="Graduation Cap">🎓</abbr> **Computer Science Student**  
-I'm currently studying **Computer Science** at **San Jose City College**, focusing on **full-stack development**.  
+I'm currently studying Computer Science at San Jose City College, focusing on full-stack development.  
 
 ## <nav title="List">📃</nav> Table of Contents
 1. [Current Projects](#current-projects)
@@ -16,9 +16,9 @@ I'm currently studying **Computer Science** at **San Jose City College**, focusi
 
 ### <section id="current-projects" role="region" aria-labelledby="current-projects">
 ### <abbr title="Pushpin">📌</abbr> **Current Projects**  
-- <abbr title="Globe">🌍</abbr> Developing a **web app** that displays **real-time commodity prices** on an interactive map.  
-- <abbr title="Briefcase">💼</abbr> Applying for a **summer internship** (May - Aug 2025).  
-- <abbr title="Folder">📂</abbr> Building a **professional portfolio**.  
+- <abbr title="Globe">🌍</abbr> Developing a **web app** that displays real-time commodity prices on an interactive map.  
+- <abbr title="Briefcase">💼</abbr> Applying for a summer internship (May - Aug 2025).  
+- <abbr title="Folder">📂</abbr> Building a professional portfolio.  
 </section>
 
 ---
