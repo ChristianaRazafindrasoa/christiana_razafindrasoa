@@ -14,8 +14,8 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ---
 
-### <section id="current-projects" role="region" aria-labelledby="current-projects">
-### <abbr title="Pushpin">📌</abbr> **Current Projects**  
+### <section id="current-projects" role="region" aria-label="current-projects">
+### <abbr title="Pushpin">📌**Current Projects**  </abbr> 
 - <abbr title="Globe">🌍</abbr> Developing a **web app** that displays real-time commodity prices on an interactive map.  
 - <abbr title="Briefcase">💼</abbr> Applying for a summer internship (May - Aug 2025).  
 - <abbr title="Folder">📂</abbr> Building a professional portfolio.  
@@ -23,7 +23,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ---
 
-### <section id="current-coursework" role="region" aria-labelledby="current-coursework">
+### <section id="current-coursework" role="region" aria-label="current-coursework">
 ### <abbr title="Books">📚</abbr> **Current Coursework**  
 - <i title="Git">🔹</i> **Version Control:** `Git & GitHub workflows`  
 - <i title="Artificial Intelligence">🔹</i> **AI & Machine Learning:** Exploring `Artificial Intelligence`  
@@ -32,7 +32,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ---
 
-### <section id="technical-skills" role="region" aria-labelledby="technical-skills">
+### <section id="technical-skills" role="region" aria-label="technical-skills">
 ### <abbr title="Tools">🛠️</abbr> **Technical Skills**  
 
 #### <abbr title="Laptop">💻</abbr> **Tech Stack**  
@@ -70,7 +70,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ---
 
-### <section id="contact-info" role="region" aria-labelledby="contact-info">
+### <section id="contact-info" role="region" aria-label="contact-info">
 ### <abbr title="Contact">📬</abbr> **Contact Info**  
 **<i title="Link">🔗</i> LinkedIn:** [Christiana Razafindrasoa](https://www.linkedin.com/in/christiana-razafindrasoa/)  
 **<i title="Envelope">📩</i> Email:** ifalianarazafindrasoa@gmail.com  
