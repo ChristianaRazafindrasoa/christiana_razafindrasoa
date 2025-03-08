@@ -1,14 +1,13 @@
 # <abbr title="Waving Hand">👋</abbr> Hello, I'm Christiana! 
+![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
 ## <abbr title="Target">🎯</abbr> **Aspiring Software Developer** | <abbr title="Graduation Cap">🎓</abbr> **Computer Science Student**  
 I'm currently studying **Computer Science** at **San Jose City College**, focusing on **full-stack development**.  
 
-## <abbr title="List">📃</abbr> Table of Contents
+## <nav title="List">📃</nav> Table of Contents
 1. [Current Projects](#current-projects)
 2. [Current Coursework](#current-coursework)
 3. [Technical Skills](#technical-skills)
-   - [Tech Stack](#tech-stack)
-   - [Creative & Productivity Tools](#creative-productivity-tools)
 4. [Contact info](#contact-info)
 
 
@@ -60,13 +59,13 @@ I'm currently studying **Computer Science** at **San Jose City College**, focusi
 
 #### <abbr title="Palette">🎨</abbr> **Creative & Productivity Tools**  
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-blue)
-![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-blue)
-![InDesign](https://img.shields.io/badge/Adobe-InDesign-blue)
-![After Effects](https://img.shields.io/badge/Adobe-After_Effects-blue)
+![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
+![InDesign](https://img.shields.io/badge/Adobe-InDesign-red)
+![After Effects](https://img.shields.io/badge/Adobe-After_Effects-purple)
 ![Word](https://img.shields.io/badge/Microsoft-Word-blue)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-blue)
-![PowerPoint](https://img.shields.io/badge/Microsoft-PowerPoint-blue)
-![Access](https://img.shields.io/badge/Microsoft-Access-blue)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
+![PowerPoint](https://img.shields.io/badge/Microsoft-PowerPoint-orange)
+![Access](https://img.shields.io/badge/Microsoft-Access-red)
 </section>
 
 ---
