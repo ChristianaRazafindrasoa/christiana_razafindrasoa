@@ -18,7 +18,7 @@ I'm currently studying **Computer Science** at **San Jose City College**, focusi
 ### <section id="current-projects" role="region" aria-labelledby="current-projects">
 ### <abbr title="Pushpin">📌</abbr> **Current Projects**  
 - <abbr title="Globe">🌍</abbr> Developing a **web app** that displays **real-time commodity prices** on an interactive map.  
-- <abbr title="Briefcase">💼</abbr> **Applying for a summer internship** (May - Aug 2025).  
+- <abbr title="Briefcase">💼</abbr> Applying for a **summer internship** (May - Aug 2025).  
 - <abbr title="Folder">📂</abbr> Building a **professional portfolio**.  
 </section>
 
