@@ -70,8 +70,8 @@ I'm currently studying **Computer Science** at **San Jose City College**, focusi
 
 ---
 
-#### <section id="contact-info" role="region" aria-labelledby="contact-info">
-## <abbr title="Contact">📬</abbr> **Contact Info**  
+### <section id="contact-info" role="region" aria-labelledby="contact-info">
+### <abbr title="Contact">📬</abbr> **Contact Info**  
 **<i title="Link">🔗</i> LinkedIn:** [Christiana Razafindrasoa](https://www.linkedin.com/in/christiana-razafindrasoa/)  
 **<i title="Envelope">📩</i> Email:** ifalianarazafindrasoa@gmail.com  
 **<abbr title="Rocket">🚀</abbr> Portfolio:** *Coming Soon*  
