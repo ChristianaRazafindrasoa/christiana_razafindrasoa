@@ -27,9 +27,9 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ### <section id="current-coursework" role="region" aria-labelledby="current-coursework">
 ### <abbr title="Books" aria-label="Emoji: Books">📚</abbr> **Current Coursework**  
-- <i title="Git"></i> **Version Control:** `Git & GitHub workflows`  
+- <i title="Frontend Development"></i> **Frontend Development:** Learning `Build tools & deployment, APIs & data handling, Git & GitHub workflows`  
+- <i title="System Administration"></i> **System Administration** Studying ` Server environment, Linux administration, Database integration`
 - <i title="Artificial Intelligence"></i> **AI & Machine Learning:** Exploring `Artificial Intelligence`  
-- <i title="Cloud"></i> **Cloud & Distributed Systems:** Studying `Distributed Systems, Cloud Computing, Database Design`  
 </section>
 
 ---
@@ -76,5 +76,5 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 ### <abbr title="Contact" aria-label="Emoji: Contact">📬</abbr> **Contact Info**  
 **<i title="Link">🔗</i> LinkedIn:** [Christiana Razafindrasoa](https://www.linkedin.com/in/christiana-razafindrasoa/)  
 **<i title="Envelope">📩</i> Email:** ifalianarazafindrasoa@gmail.com  
-**<i title="Rocket">🚀</abbr> Portfolio:** *Coming Soon*  
+**<i title="Rocket">🚀</i> Portfolio:** *Coming Soon*  
 </section>
