@@ -1,7 +1,7 @@
 # <abbr title="Waving Hand" aria-label="Emoji: Waving Hand">👋</abbr> Hello, I'm Christiana!  
 ![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
-## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Aspiring Software Developer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Student**  
+## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Software Engineer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Student**  
 I'm currently studying Computer Science at San Jose City College, focusing on full-stack development.  
 
 ## <section aria-labelledby="table-of-contents">
