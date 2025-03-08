@@ -1,41 +1,43 @@
-# <abbr title="Waving Hand">👋</abbr> Hello, I'm Christiana! 
+# <abbr title="Waving Hand" aria-label="Emoji: Waving Hand">👋</abbr> Hello, I'm Christiana!  
 ![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
-## <abbr title="Target">🎯</abbr> **Aspiring Software Developer** | <abbr title="Graduation Cap">🎓</abbr> **Computer Science Student**  
+## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Aspiring Software Developer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Student**  
 I'm currently studying Computer Science at San Jose City College, focusing on full-stack development.  
 
-## <nav title="List">📃</nav> Table of Contents
-1. [Current Projects](#current-projects)
-2. [Current Coursework](#current-coursework)
-3. [Technical Skills](#technical-skills)
-4. [Contact info](#contact-info)
-
-
-
----
-
-### <section id="current-projects" role="region" aria-label="current-projects">
-### <abbr title="Pushpin">📌 **Current Projects** </abbr>
-- <abbr title="Globe">🌍</abbr> Developing a **web app** that displays real-time commodity prices on an interactive map.  
-- <abbr title="Briefcase">💼</abbr> Applying for a summer internship (May - Aug 2025).  
-- <abbr title="Folder">📂</abbr> Building a professional portfolio.  
+## <section aria-labelledby="table-of-contents">
+   <h2 id="table-of-contents">Table of Contents</h2>
+   <ol>
+      <li><a href="#current-projects">Current Projects</a></li>
+      <li><a href="#current-coursework">Current Coursework</a></li>
+      <li><a href="#technical-skills">Technical Skills</a></li>
+      <li><a href="#contact-info">Contact Info</a></li>
+   </ol>
 </section>
 
 ---
 
-### <section id="current-coursework" role="region" aria-label="current-coursework">
-### <abbr title="Books">📚</abbr> **Current Coursework**  
-- <i title="Git">🔹</i> **Version Control:** `Git & GitHub workflows`  
-- <i title="Artificial Intelligence">🔹</i> **AI & Machine Learning:** Exploring `Artificial Intelligence`  
-- <i title="Cloud">🔹</i> **Cloud & Distributed Systems:** Studying `Distributed Systems, Cloud Computing, Database Design`  
+### <section id="current-projects" role="region" aria-labelledby="current-projects">
+### <abbr title="Pushpin" aria-label="Emoji: Pushpin">📌</abbr> **Current Projects**  
+- <abbr title="Globe" aria-label="Emoji: Globe">🌍</abbr> Developing a web app that displays real-time commodity prices on an interactive map.  
+- <abbr title="Briefcase" aria-label="Emoji: Briefcase">💼</abbr> Applying for a summer internship (May - Aug 2025).  
+- <abbr title="Folder" aria-label="Emoji: Folder">📂</abbr> Building a professional portfolio.  
 </section>
 
 ---
 
-### <section id="technical-skills" role="region" aria-label="technical-skills">
-### <abbr title="Tools">🛠️</abbr> **Technical Skills**  
+### <section id="current-coursework" role="region" aria-labelledby="current-coursework">
+### <abbr title="Books" aria-label="Emoji: Books">📚</abbr> **Current Coursework**  
+- <i title="Git"></i> **Version Control:** `Git & GitHub workflows`  
+- <i title="Artificial Intelligence"></i> **AI & Machine Learning:** Exploring `Artificial Intelligence`  
+- <i title="Cloud"></i> **Cloud & Distributed Systems:** Studying `Distributed Systems, Cloud Computing, Database Design`  
+</section>
 
-#### <abbr title="Laptop">💻</abbr> **Tech Stack**  
+---
+
+### <section id="technical-skills" role="region" aria-labelledby="technical-skills">
+### <abbr title="Tools" aria-label="Emoji: Tools">🛠️</abbr> **Technical Skills**  
+
+#### <abbr title="Laptop" aria-label="Emoji: Laptop">💻</abbr> **Tech Stack**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
@@ -57,7 +59,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
 
-#### <abbr title="Palette">🎨</abbr> **Creative & Productivity Tools**  
+#### <abbr title="Palette" aria-label="Emoji: Palette">🎨</abbr> **Creative & Productivity Tools**  
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-blue)
 ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
 ![InDesign](https://img.shields.io/badge/Adobe-InDesign-red)
@@ -71,8 +73,8 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 ---
 
 ### <section id="contact-info" role="region" aria-label="contact-info">
-### <abbr title="Contact">📬</abbr> **Contact Info**  
+### <abbr title="Contact" aria-label="Emoji: Contact">📬</abbr> **Contact Info**  
 **<i title="Link">🔗</i> LinkedIn:** [Christiana Razafindrasoa](https://www.linkedin.com/in/christiana-razafindrasoa/)  
 **<i title="Envelope">📩</i> Email:** ifalianarazafindrasoa@gmail.com  
-**<abbr title="Rocket">🚀</abbr> Portfolio:** *Coming Soon*  
+**<i title="Rocket">🚀</abbr> Portfolio:** *Coming Soon*  
 </section>
