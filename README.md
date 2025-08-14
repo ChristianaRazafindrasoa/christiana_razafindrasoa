@@ -2,7 +2,7 @@
 ![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
 ## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Software Engineer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Student**  
-I'm currently studying Computer Science at San Jose City College, focusing on full-stack development.  
+I'm currently studying Computer Science at San Jose City College.  
 
 ## <section aria-labelledby="table-of-contents">
    <h2 id="table-of-contents">Table of Contents</h2>
@@ -18,18 +18,18 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 
 ### <section id="current-projects" role="region" aria-labelledby="current-projects">
 ### <abbr title="Pushpin" aria-label="Emoji: Pushpin">📌</abbr> **Current Projects**  
-- <abbr title="Globe" aria-label="Emoji: Globe">🌍</abbr> Developing a web app that displays real-time commodity prices on an interactive map.  
-- <abbr title="Briefcase" aria-label="Emoji: Briefcase">💼</abbr> Applying for a summer internship (May - Aug 2025).  
-- <abbr title="Folder" aria-label="Emoji: Folder">📂</abbr> Building a professional portfolio.  
+- <abbr title="Briefcase" aria-label="Emoji: Briefcase">💼</abbr> Applying for a fall internship as a Software/AI Engineer (August - December 2025).  
+- <abbr title="Robot" aria-label="Emoji: Robot">🤖</abbr> Developed a RAG chatbot for improving website navigation and a dashboard for query analysis.
+- <abbr title="Globe" aria-label="Emoji: Globe">🌍</abbr> Built a web app for displaying networks of geograpically-linked Wikipedia pages.   
 </section>
 
 ---
 
 ### <section id="current-coursework" role="region" aria-labelledby="current-coursework">
 ### <abbr title="Books" aria-label="Emoji: Books">📚</abbr> **Current Coursework**  
-- <i title="Frontend Development"></i> **Frontend Development:** Learning `Build tools & deployment, APIs & data handling, Git & GitHub workflows`  
-- <i title="System Administration"></i> **System Administration** Studying ` Server environment, Linux administration, Database integration`
-- <i title="Artificial Intelligence"></i> **AI & Machine Learning:** Exploring `Artificial Intelligence`  
+- <i title="Frontend Development"></i> **Frontend Development:** Learning ` General User Interface, APIs & data handling, Web design`  
+- <i title="Backend Development"></i> **Backend Development** Studying ` Server environment, Operating systems, Database integration`
+- <i title="Artificial Intelligence"></i> **AI & Machine Learning:** Exploring ` Artificial Intelligence, RAG and fine-tuning, LLMs and FMs`  
 </section>
 
 ---
@@ -53,11 +53,8 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
 
 #### <abbr title="Palette" aria-label="Emoji: Palette">🎨</abbr> **Creative & Productivity Tools**  
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-blue)
