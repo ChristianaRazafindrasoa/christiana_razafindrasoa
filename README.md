@@ -1,41 +1,31 @@
 # <abbr title="Waving Hand" aria-label="Emoji: Waving Hand">👋</abbr> Hello, I'm Christiana!  
 ![Christiana's GitHub Profile Picture](https://github.com/ChristianaRazafindrasoa.png)
 
-## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Software Engineer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Student**  
-I'm currently studying Computer Science at San Jose City College.  
-
-## <section aria-labelledby="table-of-contents">
-   <h2 id="table-of-contents">Table of Contents</h2>
-   <ol>
-      <li><a href="#current-projects">Current Projects</a></li>
-      <li><a href="#current-coursework">Current Coursework</a></li>
-      <li><a href="#technical-skills">Technical Skills</a></li>
-      <li><a href="#contact-info">Contact Info</a></li>
-   </ol>
-</section>
+## <abbr title="Target" aria-label="Emoji: Target">🎯</abbr> **Software Engineer** | <abbr title="Graduation Cap" aria-label="Emoji: Graduation Cap">🎓</abbr> **Computer Science Graduate**  
+I studied Computer Science at San Jose City College and have a background in Finance.  
 
 ---
 
-### <section id="current-projects" role="region" aria-labelledby="current-projects">
-### <abbr title="Pushpin" aria-label="Emoji: Pushpin">📌</abbr> **Current Projects**  
-- <abbr title="Briefcase" aria-label="Emoji: Briefcase">💼</abbr> Applying for a fall internship as a Software/AI Engineer (August - December 2025).  
+### <section id="projects" role="region" aria-labelledby="projects">
+### <abbr title="Pushpin" aria-label="Emoji: Pushpin">📌</abbr> **Projects**  
+- <abbr title="Briefcase" aria-label="Emoji: Briefcase">💼</abbr> Looking for a full-time Software Engineer position.  
 - <abbr title="Robot" aria-label="Emoji: Robot">🤖</abbr> Developed a RAG chatbot for improving website navigation and a dashboard for query analysis.
 - <abbr title="Globe" aria-label="Emoji: Globe">🌍</abbr> Built a web app for displaying networks of geograpically-linked Wikipedia pages.   
 </section>
 
 ---
 
-### <section id="current-coursework" role="region" aria-labelledby="current-coursework">
-### <abbr title="Books" aria-label="Emoji: Books">📚</abbr> **Current Coursework**  
-- <i title="Frontend Development"></i> **Frontend Development:** Learning ` General User Interface, APIs & data handling, Web design`  
-- <i title="Backend Development"></i> **Backend Development** Studying ` Server environment, Operating systems, Database integration`
-- <i title="Artificial Intelligence"></i> **AI & Machine Learning:** Exploring ` Artificial Intelligence, RAG and fine-tuning, LLMs and FMs`  
+### <section id="skills" role="region" aria-labelledby="skills">
+### <abbr title="Books" aria-label="Emoji: Books">📚</abbr> **Skills**  
+- <i title="Frontend Development"></i> **Frontend Development:** ` General User Interface, APIs & data handling, Web design`  
+- <i title="Backend Development"></i> **Backend Development** ` Server environment, Operating systems, Database integration`
+- <i title="Artificial Intelligence"></i> **AI & Machine Learning:** ` Artificial Intelligence, RAG and fine-tuning, LLMs and FMs`  
 </section>
 
 ---
 
-### <section id="technical-skills" role="region" aria-labelledby="technical-skills">
-### <abbr title="Tools" aria-label="Emoji: Tools">🛠️</abbr> **Technical Skills**  
+### <section id="tech-stack" role="region" aria-labelledby="tech-stack">
+### <abbr title="Tools" aria-label="Emoji: Tools">🛠️</abbr> **Tech Stack**  
 
 #### <abbr title="Laptop" aria-label="Emoji: Laptop">💻</abbr> **Tech Stack**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -73,5 +63,4 @@ I'm currently studying Computer Science at San Jose City College.
 ### <abbr title="Contact" aria-label="Emoji: Contact">📬</abbr> **Contact Info**  
 **<i title="Link">🔗</i> LinkedIn:** [Christiana Razafindrasoa](https://www.linkedin.com/in/christiana-razafindrasoa/)  
 **<i title="Envelope">📩</i> Email:** ifalianarazafindrasoa@gmail.com  
-**<i title="Rocket">🚀</i> Portfolio:** *Coming Soon*  
 </section>
